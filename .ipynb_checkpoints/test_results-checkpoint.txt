@@ -1,0 +1,6 @@
+Test Results:
+==============================
+Classes: ['garbage', 'limestone', 'sandstone', 'shale']
+Number of Classes: 4
+Test Loss: 0.1839
+Test Accuracy: 0.9337
